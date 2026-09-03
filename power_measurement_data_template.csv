@@ -1,0 +1,1 @@
+run_id,device_id,firmware_hash,state,sampling_rate_Hz,voltage_mean_V,current_mean_mA,current_peak_mA,current_p95_mA,duration_s,energy_J,instrument_model,instrument_calibration_date,notes

@@ -1,0 +1,1 @@
+run_id,device_id,firmware_hash,gas,certified_reference,reference_unit,cylinder_id,certificate_uncertainty,temperature_C,RH_percent,flow_L_min,chamber_volume_L,commercial_comparator,replicate,baseline_mean,steady_mean,bias,relative_bias_percent,T50_s,T90_s,recovery_s,alarm_state,alarm_delay_s,notes
