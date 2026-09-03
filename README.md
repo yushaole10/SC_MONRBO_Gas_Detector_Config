@@ -2,7 +2,7 @@
 ## Computational Configuration of a Multi-Channel Confined-Space Gas Detector
 
 ### Authors
-[根据您的稿件填写作者姓名]
+shaole Yu;wenying Zhang
 
 ### Overview
 This repository contains the code and supplementary data for the paper published in IEEE Sensors Journal.
@@ -28,4 +28,4 @@ MIT License
 
 ### Citation
 If you use this code, please cite the accompanying paper:
-[将论文引用信息填写在此处]
+Safety-Constrained Multi-Objective Configuration of Gas Detector Parameters: A Reproducible Computational Screening Framework
